@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a10bc6f524ec841bb4d61a0c461628, type: 3}
+  m_Name: Dark Matter
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 1231950577370780, guid: e478c3d8b60ae3a47880d5332f9ec7e5,
+    type: 2}
+  enemyProjectilePrefab: {fileID: 1231950577370780, guid: 238919630a9113d42b39c8ff538dc77b,
+    type: 2}
+  weakness:
+  - {fileID: 11400000, guid: d12d910d61804d041ae8d03165aa1d8a, type: 2}
